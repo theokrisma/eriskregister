@@ -1,0 +1,75 @@
+#login{
+    padding-top: 1rem;
+    width: 300px;
+    height: 7000px;
+    justify-content: center;
+}
+#loginpage{
+    background-color: whitesmoke;
+}
+
+form{
+    padding-top: 2rem;
+    
+}
+
+#buttonnewrisk{
+    padding-top: 1rem;
+    padding-left: 10px;
+    color: blue;
+    position: center;
+}
+
+#dept{
+    width: 10px;
+    height: 500rem;
+}
+
+#navigation{
+    position: relative;
+    text-align: center;
+    margin-top: 8rem;
+    margin-left: 24rem;
+    background-color: white;
+    
+}
+
+.buttondownload{
+    margin-left: 25px;
+    margin-bottom: 50px;
+}
+
+.tabelreport{
+    margin-top: 5rem;
+    margin-left: 10px;
+}
+
+.tabelcontent1{
+    padding-top: 1rem;
+    padding-left: 10px;
+}
+
+.tabelcontent2{
+    padding-top: 1rem;
+    padding-left: 10px;
+}
+
+#tabelcontent3{
+    padding-top: 1rem;
+    padding-left: 10px;
+}
+
+ /* testtttt */
+#body {
+float: left;
+width: 50%;
+height: 1700px;
+background-color: whitesmoke;
+}
+#sidebar {
+float: left;
+width: 50%;
+height: 1700px;
+background-color: whitesmoke;
+}
+/* testt*/ 
